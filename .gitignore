@@ -1,12 +1,8 @@
 # Grav Specific
 .sass-cache
 composer.lock
-assets/*
 backup/*
 cache/*
-images/*
-logs/*
-user/data/*
 
 # OS Generated
 .DS_Store*
