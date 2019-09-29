@@ -58,8 +58,8 @@ content:
         dir: asc
         custom:
             - _about
-            - _portfolio
             - _resume
+            - _portfolio
             #- _call
             #- _testimonials
             #- _contact

@@ -8,6 +8,10 @@ sections:
           info: Bachelor of Computing, Computer Science
           date: 2017 to 2021
           description: "<b>Achievements</b><br>• Honorable Mention for School of Computing's Orbital 2018 (Top 11 of 211 teams)<br>• <a href=\"http://bit.ly/2hSzWbv\">Info-communications Media Development Authority of Singapore Scholarship</a><br><br><b>Certification</b><br>• <a href=\"https://courses.edx.org/certificates/e9c965d9096b4eb6b9db7e331dce8cf2\">HarvardX PH125.1x: Data Science: R Basics</a> (2018)<br><br><b>Present Activities</b><br>• <a href=\"https://www.facebook.com/nussc\">President of NUS Skating Club</a>: Organised two introductory skating courses in which I led 20 instructors in teaching over 50 participants for each run; organised Skate Challenge 2019 in which over 60 university, polytechnic, ITE and primary school students participated.<br>• <a href=\"http://rc4.nus.edu.sg/\">Residential College 4 Systems Citizen</a>: Completed the RC4 System Dynamics programme where I was exposed to agent-based, network and stock-and-flow modelling."
+        - title: Stanford University, California
+          info: <a href=\"https://summer.stanford.edu/ihp\">International Honors Program</a>
+          date: Summer 2019
+          description: "I was one of only 10 National University of Singapore students selected for this programme. As an <a href=\"https://summer.stanford.edu/ihp\">International Honors Program</a> (IHP) participant, I took CS 161: Design and Analysis of Algorithms and CME 106: Introduction to Probability and Statistics for Engineers.<br><br><i>The IHP is a collaboration between Stanford Summer Session and specific international teaching and research institutions. All IHP students are endorsed through a selective admissions process, initiated at their home institution. This year, IHP students come from over 30 different universities in 17 countries around the world.</i>"
         - title: Singapore Polytechnic
           info: Diploma in Information Technology, cGPA of 3.907 upon 4.0
           date: 2012 to 2015
@@ -27,6 +31,10 @@ sections:
           info: National Service
           date: October 2015 to August 2017
           description: "I served National Service at the Division Manpower Branch of Headquarters 2nd People's Defence Force Division (HQ 2 PDF).<br><br><b>Achievements</b><br>• Outstanding grade for  conduct and performance with testimonial<br>• Best Soldier of the Month (December 2016)<br><br><b>Notable Projects</b><br>• SAF Family Concert 2016 Invitation In-Charge: Implemented a ticketing system with barcode scanning capability using Excel VBA<br>• HQ 2 PDF National Education Tour 2016 Organizer: Liaised with tour agencies and caterers"
+        - title: DigiPen Institute of Technology, Seattle
+          info: Overseas Industrial Training Programme
+          date: Summer 2015
+          description: "I was one of only three students in my batch selected for this programme. During the programme, I worked in a team of four to produce a 2D puzzle game using DigiPen's proprietary Zero engine."
     #- title: Skills
     #  css_class: skill
     #  items:
