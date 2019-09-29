@@ -1,0 +1,22 @@
+title: Evan Tay
+author:
+  name: Evan Tay
+metadata:
+    description: I am a Computer Science undergraduate who loves to code, skate and run.
+
+# Header customization
+header:
+  title: Hello!
+  description: I am a Computer Science undergraduate who loves to code, skate and run.
+
+copyright:
+    - line: &copy; Copyright 2019 Evan Tay
+
+social:
+- url: "https://www.linkedin.com/in/evanitsg/"
+  icon: linkedin
+- url: "https://github.com/DigiPie"
+  icon: github
+
+redirects:
+  /glory: '/#portfolio-glory[303]'
