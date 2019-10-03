@@ -15,16 +15,6 @@ I am looking for a 3-months internship from 11 May to 31 August 2020. I am inter
 
 Do reach out to me at [evantay@comp.nus.edu.sg](mailto:evantay@comp.nus.edu.sg) or view my [LinkedIn profile](https://www.linkedin.com/in/evanitsg/).
 
-My technical skills:
-- Programming fundamentals: Java (Oracle Certified Associate), C, C++, C#
-- Data-oriented: R (HarvardX PH125.1x certificate), Python, AnyLogic
-- Traditional web development: HTML5, CSS3, JS, PHP, JSP
-- Database experience: MySQL, PostgreSQL
-- Modern web development: NodeJS, VueJS, GravCMS
-- Continuous integration and deployment: Git, Docker
-- System administration: Linux (CentOS/Ubuntu), Bash scripting, ELK logging
-- Cloud platforms: Amazon Web Service, Digital Ocean, Herokuapp
-
 View my work on [Github](https://github.com/DigiPie).
 
 Scroll down to view my portfolio and resume:
