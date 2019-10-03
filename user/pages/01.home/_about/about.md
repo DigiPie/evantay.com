@@ -13,6 +13,6 @@ I believes social growth are just as important as academic development. I was th
 In my free time, I take online courses (most recently, HarvardX's Data Science: R Basics), practice Vinyasa yoga and train for endurance running.
 
 ## Looking for summer internship in 2020
-I am looking for a 3-months internship related to full-stack development from 11 May to 31 August 2020 where I will get to solve difficult, meaningful problems in a collaborative environment. During this internship, I hope to receive guidance from mentors who would challenge me to grow as a tech professional.
+I am looking for a software engineering or cloud-operation internship from 11 May to 31 Aug 2020 where I will get to work on meaningful problems in a collaborative environment. During this internship, I hope to receive guidance from mentors who would challenge me to grow as a tech professional.
 
-If you think I could be a good fit for your company, do reach out to me at [evantay@comp.nus.edu.sg](mailto:evantay@comp.nus.edu.sg), or view my [LinkedIn profile](https://www.linkedin.com/in/evanitsg/) and [Github page](https://github.com/DigiPie).
+If you think I could be a good fit for your company, do reach out to me via [email](mailto:evantay@comp.nus.edu.sg), view my [LinkedIn profile](https://www.linkedin.com/in/evanitsg/) or check out my [Github page](https://github.com/DigiPie). A generic resume is also available below.
