@@ -36,6 +36,7 @@
       font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
    }
+
    header .banner-text hr {
       width: 65%;
       margin: 12px auto;
@@ -204,8 +205,8 @@
    /* header social links */
    header .social {
       margin: 18px 0 24px 0;
-      font-size: 24px;
-      line-height: 36px;      
+      font-size: 36px;
+      line-height: 48px;      
    }
    header .social li { margin: 0 10px; }
 
@@ -320,10 +321,9 @@
   
    /* copyright */
    footer .copyright li:before { content: none; }
-   footer .copyright li { margin-right: 12px; }
 
    /* social links */
-   footer .social-links { font-size: 22px; }
+   footer .social-links { font-size: 36px; }
    footer .social-links li { margin-left: 18px; }
 
    /* Go To Top Button */

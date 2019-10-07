@@ -59,21 +59,21 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 76px/1em 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #eee;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #fff;
+   color: #eee;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: #eee;
 }
 header .banner-text hr {
    width: 60%;
@@ -87,7 +87,7 @@ header .banner-text hr {
 header .social {
    margin: 24px 0;
    padding: 0;
-   font-size: 36px;
+   font-size: 48px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
 }
 header .social li {
@@ -104,7 +104,7 @@ header .scrolldown a {
    bottom: 30px;
    left: 50%;
    margin-left: -29px;
-   color: #fff;
+   color: #eee;
    display: block;
    height: 42px;
    width: 42px;
@@ -169,7 +169,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #eee;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -208,12 +208,12 @@ ul#nav li.current a { color: #F06000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #eee;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 20px;
-   color: #fff;
+   color: #eee;
 }
 
 #about li {
@@ -487,7 +487,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
-   color: #fff;
+   color: #eee;
    height: 30px;
    width: 30px;
    font-size: 18px;
@@ -517,7 +517,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
    font: 14px/21px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #eee;
 }
 .portfolio-item .portfolio-item-meta p {
    font: 12px/18px 'opensans-light', sans-serif;
@@ -572,7 +572,7 @@ ul#nav li.current a { color: #F06000; }
    text-align: left;
 }
 .popup-modal .link-box a {
-   color: #fff;
+   color: #eee;
 	font: 11px/21px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
    letter-spacing: 3px;
@@ -616,7 +616,7 @@ ul#nav li.current a { color: #F06000; }
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #fff;
+   color: #eee;
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
@@ -627,7 +627,7 @@ ul#nav li.current a { color: #F06000; }
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: #eee;
 }
 #call-to-action .action {
    margin-top: 12px;
@@ -646,13 +646,13 @@ ul#nav li.current a { color: #F06000; }
 }
 /*#
 call-to-action .button {
-	color:#fff;
+	color:#eee;
    background: #0D0D0D;
 }
 */
 #call-to-action .button:hover,
 #call-to-action .button:active {
-   background: #FFFFFF;
+   background: #fffeee;
    color: #0D0D0D;
 }
 #call-to-action p span {
@@ -683,7 +683,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #fff;
+   color: #eee;
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
@@ -695,7 +695,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: #eee;
 }
 
 /*	Blockquotes */
@@ -711,14 +711,14 @@ call-to-action .button {
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: #fff
+   color: #eee
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: #fff;
+   color: #eee;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
@@ -822,7 +822,7 @@ call-to-action .button {
 #contact .section-head { margin-bottom: 42px; }
 
 #contact a, #contact a:visited  { color: #11ABB0; }
-#contact a:hover, #contact a:focus { color: #fff; }
+#contact a:hover, #contact a:focus { color: #eee; }
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -881,13 +881,13 @@ call-to-action .button {
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
-	color: #fff;
+	color: #eee;
 	background-color: #11ABB0;
 }
 #contact button.button {
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color:#fff;
+	color:#eee;
    background: #0D0D0D;
 	border: none;
    cursor: pointer;
@@ -987,13 +987,13 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #fff;
+   color: #eee;
    font-size: 14px;
    text-align: center;
    position: relative;
 }
 
-footer a, footer a:visited { color: #fff; }
+footer a, footer a:visited { color: #eee; }
 footer a:hover, footer a:focus { color: #11ABB0; }
 
 /* copyright */
@@ -1057,7 +1057,7 @@ footer .social-links li:first-child { margin-left: 0; }
    -ms-transition: all 0.2s ease-in-out;
    transition: all 0.2s ease-in-out;
 
-   color: #fff;
+   color: #eee;
    font-size: 21px;
    line-height: 60px;
  	border-radius: 100%;
