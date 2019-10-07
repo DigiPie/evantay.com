@@ -255,8 +255,15 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper .columns { margin-bottom: 40px; }
-   .popup-modal {	max-width: 85%; }
+   #portfolio-wrapper {
+      text-align: center;
+   }
+
+   #portfolio-wrapper .columns { 
+      margin: 0 auto 40px;
+      max-width: 60%;
+   }
+   .popup-modal {	max-width: 80%; }
 
 
    /* Testimonials Section
