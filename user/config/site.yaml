@@ -2,12 +2,12 @@ title: Evan Tay
 author:
   name: Evan Tay
 metadata:
-    description: I am a penultimate Computer Science undergraduate at NUS who is passionate about full-stack development and cloud system administration.
+    description: I am a penultimate Computer Science undergraduate who is passionate about full-stack development and cloud system administration.
 
 # Header customization
 header:
   title: Hello world
-  description: I am a penultimate Computer Science undergraduate at NUS who is passionate about full-stack development and cloud system administration.
+  description: I am a penultimate Computer Science undergraduate who is passionate about full-stack development and cloud system administration.
 
 copyright:
     - line: &copy; Copyright 2019 Evan Tay
