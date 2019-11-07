@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: #1d1d1d; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -33,9 +33,10 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/prism.png) no-repeat top center;
+   /*background: #161415 url(../images/prism.png) no-repeat top center;
    background-size: cover !important;
-	-webkit-background-size: cover !important;
+   -webkit-background-size: cover !important;*/
+   
    text-align: center;
    overflow: hidden;
 }
@@ -140,7 +141,7 @@ header .scrolldown a:hover { color: #4285F4; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #1d1d1d; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
