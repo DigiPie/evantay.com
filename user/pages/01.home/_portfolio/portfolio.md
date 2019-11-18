@@ -11,7 +11,7 @@ portfolio:
   - title: "Dynalite"
     quickLink: dynalite
     description: Online dynamic visualisation of room occupancy
-    img: digicourse.png
+    img: dynalite.png
     content: "<span class=\"black\">Project Type:</span> Online dynamic visualisation of room occupancy<br><span class=\"black\">Duration:</span> September to November 2019<br><span class=\"black\">Technology:</span> Raspberry-Pi, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker<br><span class=\"black\">Team: </span><a href=\"https://www.evantay.com\">Evan Tay</a>, <a href=\"https://github.com/pikulet/\">Joyce Yeo</a>, <a href=\"https://github.com/crazoter/\">Matthew Lee</a>, <a href=\"https://github.com/Happytreat\">Melodies Sim</a><br><br><span class=\"black\">Description: </span><br><i>Dynalite is an Internet-of-Things application which performs dynamic visualisation of room occupancy.</i><br><br>We worked on Dynalite under the National University of Singapore's <a href=\"https://nusmods.com/modules/CS3103/computer-networks-practice\">CS3103: Computer Networks Practice module</a>. Dynalite is an Internet-of-Things application which performs dynamic visualisation of room occupancy. Dynalite uses one or more Raspberry Pis to measure room occupancy and a NodeJS-Express-PostgreSQL web server to store and visualise the measured data. Communication betwene the Pis and the server is implemented using COAP.<br><br><span class=\"black\">Resources: </span><br><a href=\"https://www.evantay.com/tech/dynalite/\">View the web page</a><br><a href=\"https://github.com/DigiPie/dynalite\">View the GitHub repository</a>"
     tags: Raspberry-Pi, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker
     link: https://github.com/DigiPie/dynalite
