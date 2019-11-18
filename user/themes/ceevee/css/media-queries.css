@@ -367,14 +367,14 @@
    }
   
    /* header social links */
-   header .social { font-size: 20px;}
+   header .social { font-size: 36px;}
    header .social li { margin: 0 6px; }
 
    /* footer
    ------------------------------------------------------------------------ */
 
    /* social links */
-   footer .social-links { font-size: 20px; }
+   footer .social-links { font-size: 36px; }
    footer .social-links li { margin-left: 14px; }   
 
 }
