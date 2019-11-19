@@ -25,7 +25,7 @@ body {
 a {
   color: #1bb3e9; }
   a:hover {
-    color: #0e6e90; }
+    color: #0F9D58; }
 
 b, strong, label, th {
   font-weight: 600; }
@@ -572,7 +572,7 @@ td {
       .list-item .list-blog-header h4 a {
         color: #444444; }
         .list-item .list-blog-header h4 a:hover {
-          color: #1bb3e9; }
+          color: #0F9D58; }
     .list-item .list-blog-header img {
       display: block;
       margin-top: 1rem;
