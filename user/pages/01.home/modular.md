@@ -57,9 +57,10 @@ content:
         by: default
         dir: asc
         custom:
+            - _portfolio
             - _about
             - _resume
-            - _portfolio
+            
             #- _call
             #- _testimonials
             #- _contact

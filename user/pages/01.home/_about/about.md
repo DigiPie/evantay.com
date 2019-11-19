@@ -6,11 +6,13 @@ title: About
 #      text: Download Resume
 ---
 ## Aspiring full-stack software engineer
-Hi, I am a penultimate Computer Science undergraduate at the National University of Singapore (NUS) who is passionate about full-stack development and cloud system administration. I am an [IMDA](https://www.imda.gov.sg) scholar (bond-free) who has received various awards and prizes during my past diploma and present university course.
+Hi, I am a penultimate Computer Science undergraduate at the National University of Singapore (NUS) who is passionate about full-stack development.
 
-I believes social growth is just as important as academic development. I was awarded the Colours Award for my contributions to the NUS recreational sports scene as the [president of the NUS Inline Skating Club](https://www.instagram.com/nusskating/?hl=en). I was also a tutor for [CS1010: Programming Methodology](https://nusmods.com/modules/CS1010/programming-methodology) and [CS2030: Programming Methodology 2](https://nusmods.com/modules/CS2030/programming-methodology-ii).
+I am an [IMDA](https://www.imda.gov.sg) scholar (bond-free) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the NUS recreational sports scene as the [president of the NUS Inline Skating Club](https://www.instagram.com/nusskating/?hl=en).
 
-In my free time, I take online courses (most recently, [HarvardX's Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)), practice Vinyasa yoga and train for endurance running.
+I believes social growth is just as important as academic development. As a [CS1010: Programming Methodology](https://nusmods.com/modules/CS1010/programming-methodology) tutor, I conducted weekly 2-hour tutorial sessions for 14 students. As the current [deputy head of technology of Google Developer Student Club NUS (DSC-NUS)](https://sites.google.com/view/dscnus/), I oversee the execution of technical events organised by the club.
+
+In my free time, I take online courses (such as [HarvardX's Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)), practice Vinyasa yoga and train for endurance running.
 
 ## Looking for summer internship in 2020
 I am looking for a software engineering or cloud-operation internship from 11 May to 31 Aug 2020 where I will get to work on meaningful problems in a collaborative environment. During this internship, I hope to receive guidance from mentors who would challenge me to grow as a tech professional.
