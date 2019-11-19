@@ -10,7 +10,7 @@ Hi, I am a penultimate Computer Science undergraduate at the National University
 
 I am an [IMDA](https://www.imda.gov.sg) scholar (bond-free) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the NUS recreational sports scene as the [President of the NUS Inline Skating Club](https://www.instagram.com/nusskating/?hl=en).
 
-I believes social growth is just as important as academic development. As a [CS1010: Programming Methodology](https://nusmods.com/modules/CS1010/programming-methodology) tutor, I conducted weekly 2-hour tutorial sessions for 14 students. As the current [Deputy Head of Technology of NUS's Google Developer Student Club](https://sites.google.com/view/dscnus/), I oversee the execution of technical events organised by the club.
+I believe social growth is just as important as academic development. As a [CS1010: Programming Methodology](https://nusmods.com/modules/CS1010/programming-methodology) tutor, I conducted weekly 2-hour tutorial sessions for 14 students. As the current [Deputy Head of Technology of NUS's Google Developer Student Club](https://sites.google.com/view/dscnus/), I oversee the execution of technical events organised by the club.
 
 In my free time, I take online courses (such as [HarvardX's Data Science: R Basics](https://www.edx.org/course/data-science-r-basics)), practice Vinyasa yoga and train for endurance running.
 
