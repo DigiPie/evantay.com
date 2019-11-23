@@ -27,14 +27,14 @@ sections:
           info: Associate Consultant
           date: July to September 2015
           description: "I worked as a System Administrator under the operations (DevOps) team.<br><br><b>Responsibilities</b><br>• Setup and maintenance of Amazon Web Services instances (virtual servers) and group policies<br>• Configuration of error logging using the Elasticsearch, Logstash, and Kibana (ELK) stack"
-        - title: Singapore Armed Forces
-          info: National Service
-          date: October 2015 to August 2017
-          description: "I served National Service at the Division Manpower Branch of Headquarters 2nd People's Defence Force Division (HQ 2 PDF).<br><br><b>Achievements</b><br>• Outstanding grade for  conduct and performance with testimonial<br>• Best Soldier of the Month (December 2016)<br><br><b>Notable Projects</b><br>• SAF Family Concert 2016 Invitation In-Charge: Implemented a ticketing system with barcode scanning capability using Excel VBA<br>• HQ 2 PDF National Education Tour 2016 Organizer: Liaised with tour agencies and caterers"
         - title: DigiPen Institute of Technology, Seattle
           info: Overseas Industrial Training Programme
           date: Summer 2015
           description: "I was one of only three students in my batch selected for this programme. During the programme, I worked in a team of four to produce a 2D puzzle game using DigiPen's proprietary Zero engine."
+        - title: Singapore Armed Forces
+          info: National Service
+          date: October 2015 to August 2017
+          description: "I served National Service at the Division Manpower Branch of Headquarters 2nd People's Defence Force Division (HQ 2 PDF).<br><br><b>Achievements</b><br>• Outstanding grade for  conduct and performance with testimonial<br>• Best Soldier of the Month (December 2016)<br><br><b>Notable Projects</b><br>• SAF Family Concert 2016 Invitation In-Charge: Implemented a ticketing system with barcode scanning capability using Excel VBA<br>• HQ 2 PDF National Education Tour 2016 Organizer: Liaised with tour agencies and caterers"
     #- title: Skills
     #  css_class: skill
     #  items:
