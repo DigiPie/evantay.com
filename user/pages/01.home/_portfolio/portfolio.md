@@ -3,11 +3,17 @@ title: Portfolio
 portfolio:
   - title: "DigiCourse"
     quickLink: digicourse
-    description: Course management platform made with NodeJS and PostgreSQL
-    img: digicourse.png
-    content: "<span class=\"black\">Project Type:</span> Course management platform<br><span class=\"black\">Duration:</span> September to November 2019<br><span class=\"black\">Technology:</span> NodeJS, ExpressJS, PostgreSQL, Herokuapp<br><span class=\"black\">Team: </span><a href=\"https://www.evantay.com\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee\">Lee Tze Ting</a>, <a href=\"https://github.com/Aquarinte/\">Jacqueline Cheong</a>, <a href=\"https://github.com/awarenessxz\">Bryan Koh</a><br><br><span class=\"black\">Description: </span><br><i>A course management platform where student-teacher interactions can take place seamlessly online.</i><br><br>We worked on DigiCourse under the National University of Singapore's <a href=\"https://nusmods.com/modules/CS2102/database-systems\">CS2102: Database Systems module</a>. It is a database-centric project which features course enrolment and management, and forum posting and management. To find out more, visit the <a href=\"https://github.com/DigiPie/DigiCourse\">GitHub page</a>.<br><br>DigiCourse is continuously deployed to Herokuapp, with the aid of Heroku build-packs, including the <a href=\"https://github.com/DigiPie/psql-heroku-buildpack\">psql-heroku-buildpack</a> which was written by me. This build pack executes a PostgreSQL script file on deployment to Heroku.<br><br><span class=\"black\">Resources: </span><br><a href=\"https://digicourse.herokuapp.com\">View the Herokuapp deployment</a><br><a href=\"https://github.com/DigiPie/DigiCourse\">View the GitHub repository</a>"
-    tags: NodeJS, ExpressJS, PostgreSQL, Herokuapp
-    link: https://github.com/DigiPie/DigiCourse
+    quickReview: Course management platform made with NodeJS and PostgreSQL
+    previewImg: digicourse.png
+    fullImg: digicourse_full.png
+    subtitle: Course management platform
+    period: September to November 2019
+    tech: NodeJS, ExpressJS, PostgreSQL, Herokuapp
+    team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee/\">Lee Tze Ting</a>, <a href=\"https://github.com/Aquarinte/\">Jacqueline Cheong</a>, <a href=\"https://github.com/awarenessxz/\">Bryan Koh</a>"
+    quote: "A course management platform where student-teacher interactions can take place seamlessly online."
+    content: "We worked on DigiCourse under the National University of Singapore's <a href=\"https://nusmods.com/modules/CS2102/database-systems\">CS2102: Database Systems module</a>. It is a database-centric project which features two major components, a course enrolment system, and a forum system.<br><br>DigiCourse is continuously deployed from Github to Herokuapp, with the aid of Heroku build-packs such as the <a href=\"https://github.com/DigiPie/psql-heroku-buildpack\">psql-heroku-buildpack</a>. I wrote this build pack to automate the execution of a PostgreSQL setup script file on deployment to Heroku."
+    repo: https://github.com/DigiPie/DigiCourse
+    deploy: https://digicourse.herokuapp.com
   - title: "Dynalite"
     quickLink: dynalite
     description: "IoT room occupancy visualisation made with Raspberry-Pi, COAP, NodeJS, PostgreSQL and ReactJS"

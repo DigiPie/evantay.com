@@ -7,14 +7,13 @@
                 <div class="columns portfolio-item">
                     <div class="item-wrap">
                         <a id="{{ item.quickLink }}" href="#modal-{{ loop.index }}" title="">
-                            {{ page.media[item.img].cropZoom(215, 215).html() }}
+                            {{ page.media[item.previewImg].cropZoom(215, 215).html() }}
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
                                     <h5>{{ item.title }}</h5>
-                                    <p>{{ item.description }}</p>
+                                    <p>{{ item.quickReview }}</p>
                                 </div>
                             </div>
-                            <div class="link-icon"><i class="icon-plus"></i></div>
                         </a>
                     </div>
                 </div>
@@ -23,14 +22,27 @@
         </div>
         {% for item in page.header.portfolio %}
         <div id="modal-{{ loop.index }}" class="popup-modal mfp-hide">
-            <img class="scale-with-grid" src="{{ page.media[item.img].url }}" alt="" />
+            <img class="scale-with-grid" src="{{ page.media[item.fullImg].url }}" alt="" />
             <div class="description-box">
                 <h3>{{ item.title }}</h3>
+                <ul>
+                    <li class="categories"><i class="fa fa-info-circle"></i>{{ item.subtitle }}</li>
+                    <li class="categories"><i class="fa fa-calendar"></i>{{ item.period }}</li>
+                    <li class="categories"><i class="fa fa-code"></i>{{ item.tech }}</li>
+                    <li class="categories"><i class="fa fa-users"></i>{{ item.team }}</li>
+                </ul>
+                <p><i>
+                    <i class="fa fa-quote-left"></i> {{ item.quote }} <i class="fa fa-quote-right"></i>
+                </i></p>
                 <p>{{ item.content }}</p>
-                <span class="categories"><i class="fa fa-tag"></i>{{ item.tags }}</span>
             </div>
             <div class="link-box">
-                <a href="{{ item.link }}">Link</a>
+            {% if item.deploy is defined %}
+                <a href="{{ item.deploy }}">Demo</a>
+            {% endif %}
+            {% if item.repo is defined %}
+                <a href="{{ item.repo }}">Github</a>
+            {% endif %}
                 <a class="popup-modal-dismiss">Close</a>
             </div>
         </div>

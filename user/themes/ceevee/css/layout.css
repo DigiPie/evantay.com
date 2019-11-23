@@ -554,16 +554,12 @@ ul#nav li.current a { color: #4285F4; }
    color: #111;
 }
 .popup-modal .description-box p {
-	font: 14px/24px 'opensans-regular', sans-serif;
-   color: #A1A1A1;
+   font: 14px/20px 'opensans-regular', sans-serif;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
-   font: 11px/21px 'opensans-light', sans-serif;
-   color: #A1A1A1;
-   text-transform: uppercase;
+   font: 12px/22px 'opensans-regular', sans-serif;
    letter-spacing: 2px;
-   display: block;
    text-align: left;
 }
 .popup-modal .description-box .categories i {
@@ -579,11 +575,18 @@ ul#nav li.current a { color: #4285F4; }
 	font: 11px/21px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
    letter-spacing: 3px;
+   margin-right: 24px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
-.popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+.popup-modal a:hover {	color: #0F9D58; }
 
+.popup-modal ul {
+   margin-bottom: 12px;
+}
+
+.popup-modal li {
+   margin-bottom: 2px;
+}
 
 /* fadein/fadeout effect for modal popup
 /* ------------------------------------------------------------------ */
