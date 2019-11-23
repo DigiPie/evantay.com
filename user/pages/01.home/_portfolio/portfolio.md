@@ -19,7 +19,7 @@ portfolio:
     previewImg: dynalite.png
     fullImg: dynalite_full.png
     period: September to November 2019
-    tech: Raspberry-Pi, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker
+    tech: Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/pikulet/\">Joyce Yeo</a>, <a href=\"https://github.com/crazoter/\">Matthew Lee</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
     quote: "Dynalite is an Internet-of-Things application which performs dynamic visualisation of room occupancy."
     content: "We worked on Dynalite under the National University of Singapore's <a href=\"https://nusmods.com/modules/CS3103/computer-networks-practice\">CS3103: Computer Networks Practice module</a>. It is an Internet-of-Things application which performs dynamic visualisation of room occupancy.<br><br>Dynalite was built using 3 Docker containers and 1 Raspberry Pi. The RPi reads light data and sends it via COAP to the first Docker container containing a backend NodeJS-ExpressJS web server.<br><br>The backend server authenticates and stores the measurements into a PostgreSQL database stored in the second Docker container.<br><br>The backend server also provides a <a href=\"https://www.evantay.com/tech/dynalite-api/occupancy\">HTTP REST API</a> which is used by a frontend React web server in the third Docker container."
@@ -43,7 +43,7 @@ portfolio:
     subtitle: 2D hack-n-slash action game
     quickLink: glory
     previewImg: glory.png
-    fullImg: glory.png
+    fullImg: glory_full.png
     period: May to September 2018
     tech: Unity, C#
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/Lunastryke/\">Lim Xuan Hao</a>"
@@ -52,4 +52,4 @@ portfolio:
     repo: https://github.com/DigiPie/Glory
     download: https://digipie.itch.io/glory
 ---
-#Check out some of my projects
+#Checkout my notesworthy projects

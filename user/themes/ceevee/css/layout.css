@@ -214,6 +214,12 @@ ul#nav li.current a { color: #4285F4; }
    color: #eee;
    margin-bottom: 12px;
 }
+
+#about h3 {
+   font: 20px/28px 'opensans-light', sans-serif;
+   color: #eee;
+}
+
 #about p {
    line-height: 20px;
    color: #eee;
@@ -221,6 +227,27 @@ ul#nav li.current a { color: #4285F4; }
 
 #about li {
    color: #0F9D58;
+}
+
+#about .tech-skills {
+   color: #eee;
+   font: 16px/26px 'opensans-light', sans-serif;
+   margin-bottom: 24px;
+}
+
+#about .tech-skills b {
+   color: #0F9D58;
+   font: 16px/26px 'opensans-regular', sans-serif;
+   text-transform: uppercase;
+}
+
+#about .hover-text {
+   text-decoration: underline;
+}
+
+#about small {
+   font-style: italic;
+   font-size: 12px;
 }
 
 #about .profile-pic {
