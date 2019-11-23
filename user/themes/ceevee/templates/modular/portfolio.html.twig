@@ -11,7 +11,7 @@
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
                                     <h5>{{ item.title }}</h5>
-                                    <p>{{ item.quickReview }}</p>
+                                    <p>{{ item.subtitle }}</p>
                                 </div>
                             </div>
                         </a>
@@ -39,6 +39,12 @@
             <div class="link-box">
             {% if item.deploy is defined %}
                 <a href="{{ item.deploy }}">Demo</a>
+            {% endif %}
+            {% if item.doc is defined %}
+                <a href="{{ item.doc }}">Doc</a>
+            {% endif %}
+            {% if item.download is defined %}
+                <a href="{{ item.download }}">Download</a>
             {% endif %}
             {% if item.repo is defined %}
                 <a href="{{ item.repo }}">Github</a>
