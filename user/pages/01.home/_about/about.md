@@ -30,4 +30,4 @@ I am looking for an internship from **11 May to 31 August 2020** in which I woul
     <small>Limited exposure-level proficiency</small>
 </div>
 
-If you think I could be a good fit for your company, do reach out to me via [email](mailto:evantay@comp.nus.edu.sg), view my [LinkedIn profile](https://www.linkedin.com/in/evanitsg/) or check out my [Github page](https://github.com/DigiPie). A generic resume is also available below.
+If I sound like a good fit for your organisation, do reach out to me via [email](mailto:evantay@comp.nus.edu.sg), [LinkedIn](https://www.linkedin.com/in/evanitsg/) or [Github](https://github.com/DigiPie).
