@@ -10,7 +10,8 @@ header:
   description: I am a penultimate Computer Science undergraduate who is passionate about full-stack development.
 
 copyright:
-    - line: &copy; Copyright 2019 Evan Tay
+    - line: Built with Grav, Nginx and DigitalOcean
+    - line: &copy; Copyright 2013 - 2019 Evan Tay
 
 social:
 - url: "https://www.linkedin.com/in/evanitsg/"

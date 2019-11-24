@@ -229,7 +229,7 @@ ul#nav li.current a { color: #4285F4; }
    color: #0F9D58;
 }
 
-#about .tech-skills {
+#about .tech-skills, #about .tech-skills-2 {
    color: #eee;
    font: 16px/26px 'opensans-light', sans-serif;
    margin-bottom: 24px;
@@ -240,6 +240,13 @@ ul#nav li.current a { color: #4285F4; }
    font: 16px/26px 'opensans-regular', sans-serif;
    text-transform: uppercase;
 }
+
+#about .tech-skills-2 b {
+   color: #F4B400;
+   font: 16px/26px 'opensans-regular', sans-serif;
+   text-transform: uppercase;
+}
+
 
 #about .hover-text {
    text-decoration: underline;
@@ -1047,7 +1054,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #4285F4;
 }
 footer .copyright  li:first-child:before {
     display: none;
