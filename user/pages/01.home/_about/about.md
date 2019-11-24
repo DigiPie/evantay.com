@@ -19,12 +19,11 @@ I am looking for an internship from 11 May to 31 August 2020 in which I would ge
 
 ### Technical skills
 <div class="tech-skills">
-    <small>Hover over text for more info</small><br>
-    <b>Foundation:</b> <span class="hover-text" title="Oracle Certified Associate">Java</span>, <span class="hover-text" title="Tutor for CS1010 which is taught in C">C</span>, <span class="hover-text" title="Game development experience">C++</span>, <span class="hover-text" title="Game development experience">C#</span><br>
-    <b>Web:</b> <span class="hover-text" title="See notesworthy projects, DigiCourse and Dynalite">NodeJS-Express</span>, ReactJS</span>, VueJS, <span class="hover-text" title="My first web programming language">PHP</span>, JSP<br>
-    <b>Database: </b><span class="hover-text" title="See notesworthy projects, DigiCourse and Dynalite">PostgreSQL</span>, MySQL<br>
-    <b>Operation:</b> <span class="hover-text" title="Mostly work with Ubuntu and CentOS, with Bash scripting exposure">Linux</span>, <span class="hover-text" title="GovTech internship experience">Amazon Web Services</span>, <span class="hover-text" title="What this website is hosted on, alongside other web apps">DigitalOcean</span><br>
-    <b>Data science:</b> <span class="hover-text" title="HarvardX PH125.1x certificate">R</span>, Python, Gephi, AnyLogic<br>
+    <b>Foundation:</b> Java, C, C++, C#<br>
+    <b>Web:</b> NodeJS-Express, ReactJS, VueJS, PHP, JSP<br>
+    <b>Database: PostgreSQL, MySQL<br>
+    <b>Operation:</b> Linux, Amazon Web Services, DigitalOcean<br>
+    <b>Data science:</b> R, Python, Gephi, AnyLogic<br>
     <small>Limited proficiency for data science, an interest but not my specialisation</small>
 </div>
 
