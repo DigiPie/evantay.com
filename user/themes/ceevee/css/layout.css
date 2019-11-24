@@ -225,6 +225,15 @@ ul#nav li.current a { color: #4285F4; }
    color: #eee;
 }
 
+#about p b {
+   line-height: 20px;
+   color: #DB4437;
+}
+
+#about h3 {
+   margin-bottom: 6px;
+}
+
 #about li {
    color: #0F9D58;
 }
