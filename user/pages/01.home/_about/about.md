@@ -21,7 +21,7 @@ I am looking for an internship from 11 May to 31 August 2020 in which I would ge
 <div class="tech-skills">
     <b>Foundation:</b> Java, C, C++, C#<br>
     <b>Web:</b> NodeJS-Express, ReactJS, VueJS, PHP, JSP<br>
-    <b>Database: PostgreSQL, MySQL<br>
+    <b>Database:</b> PostgreSQL, MySQL<br>
     <b>Operation:</b> Linux, Amazon Web Services, DigitalOcean<br>
     <b>Data science:</b> R, Python, Gephi, AnyLogic<br>
     <small>Limited proficiency for data science, an interest but not my specialisation</small>
