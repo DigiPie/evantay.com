@@ -2,7 +2,7 @@
 title: Portfolio
 portfolio:
   - title: DigiCourse
-    subtitle: Full-stack course management platform
+    subtitle: Full-stack course management platform [NodeJS, ExpressJS, PostgreSQL, Herokuapp]
     quickLink: digicourse
     previewImg: digicourse.png
     fullImg: digicourse_full.png
@@ -14,7 +14,7 @@ portfolio:
     repo: https://github.com/DigiPie/DigiCourse
     deploy: https://digicourse.herokuapp.com
   - title: Dynalite
-    subtitle: Internet-of-Things room occupancy visualisation app
+    subtitle: Internet-of-Things room occupancy visualisation app [Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker]
     quickLink: dynalite
     previewImg: dynalite.png
     fullImg: dynalite_full.png
@@ -26,7 +26,7 @@ portfolio:
     repo: https://github.com/DigiPie/dynalite
     deploy: https://www.evantay.com/tech/dynalite/
   - title: BrainTrain
-    subtitle: Spaced-repetition flashcard desktop app
+    subtitle: Spaced-repetition flashcard desktop app [Java, JUnit5, JavaFx, OpenCSV]
     quickLink: braintrain
     previewImg: braintrain.png
     fullImg: braintrain_full.png
@@ -40,7 +40,7 @@ portfolio:
     repo: https://github.com/DigiPie/BrainTrain
     doc: https://digipie.github.io/BrainTrain/index.html
   - title: "Glory: Tales of Yi-Shun"
-    subtitle: 2D hack-n-slash action game
+    subtitle: 2D hack-n-slash action game [Unity, C#]
     quickLink: glory
     previewImg: glory.png
     fullImg: glory_full.png
@@ -52,4 +52,4 @@ portfolio:
     repo: https://github.com/DigiPie/Glory
     download: https://digipie.itch.io/glory
 ---
-#Checkout my notesworthy projects
+#Check out some of my notable projects
