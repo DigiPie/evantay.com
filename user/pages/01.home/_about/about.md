@@ -22,7 +22,7 @@ I am looking for an internship from <span class="red">11 May to 31 August 2020</
     <b>Foundation:</b> Java, C, C++, C#<br>
     <b>Web:</b> NodeJS-Express, ReactJS, VueJS, PHP, JSP<br>
     <b>Database:</b> PostgreSQL, MySQL<br>
-    <b>Operation:</b> Linux, Amazon Web Services, DigitalOcean<br>
+    <b>Operation:</b> Linux, Docker, Amazon Web Services, DigitalOcean<br>
 </div>
 ### Exposure
 <div class="tech-skills-2">
