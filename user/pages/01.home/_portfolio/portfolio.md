@@ -2,10 +2,11 @@
 title: Portfolio
 portfolio:
   - title: DigiCourse
-    subtitle: Full-stack course management platform [NodeJS, ExpressJS, PostgreSQL, Herokuapp]
+    quickSubtitle: Full-stack course management platform [NodeJS, ExpressJS, PostgreSQL, Herokuapp]
     quickLink: digicourse
     previewImg: digicourse.png
     fullImg: digicourse_full.png
+    subtitle: Full-stack course management platform
     period: September to November 2019
     tech: NodeJS, ExpressJS, PostgreSQL, Herokuapp
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee/\">Lee Tze Ting</a>, <a href=\"https://github.com/Aquarinte/\">Jacqueline Cheong</a>, <a href=\"https://github.com/awarenessxz/\">Bryan Koh</a>"
@@ -14,10 +15,11 @@ portfolio:
     repo: https://github.com/DigiPie/DigiCourse
     deploy: https://digicourse.herokuapp.com
   - title: Dynalite
-    subtitle: Internet-of-Things room occupancy visualisation app [Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker]
+    quickSubtitle: Internet-of-Things room occupancy visualisation app [Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker]
     quickLink: dynalite
     previewImg: dynalite.png
     fullImg: dynalite_full.png
+    subtitle: Internet-of-Things room occupancy visualisation app
     period: September to November 2019
     tech: Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/pikulet/\">Joyce Yeo</a>, <a href=\"https://github.com/crazoter/\">Matthew Lee</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
@@ -26,10 +28,11 @@ portfolio:
     repo: https://github.com/DigiPie/dynalite
     deploy: https://www.evantay.com/tech/dynalite/
   - title: BrainTrain
-    subtitle: Spaced-repetition flashcard desktop app [Java, JUnit5, JavaFx, OpenCSV]
+    quickSubtitle: Spaced-repetition flashcard desktop app [Java, JUnit5, JavaFx, OpenCSV]
     quickLink: braintrain
     previewImg: braintrain.png
     fullImg: braintrain_full.png
+    subtitle: Spaced-repetition flashcard desktop app
     period: March to April 2019
     tech: Java, JUnit5, JavaFx, OpenCSV
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee/\">Lee Tze Ting</a>, <a href=\"https://github.com/eugenefdw\">Eugene Foo</a>, <a href=\"https://github.com/lallanachang\">Chang Lei</a>, <a href=\"https://github.com/jeraldtsy\">Jerald Tan</a>"
@@ -40,10 +43,11 @@ portfolio:
     repo: https://github.com/DigiPie/BrainTrain
     doc: https://digipie.github.io/BrainTrain/index.html
   - title: "Glory: Tales of Yi-Shun"
-    subtitle: 2D hack-n-slash action game [Unity, C#]
+    quickSubtitle: 2D hack-n-slash action game [Unity, C#]
     quickLink: glory
     previewImg: glory.png
     fullImg: glory_full.png
+    subtitle: 2D hack-n-slash action game
     period: May to September 2018
     tech: Unity, C#
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/Lunastryke/\">Lim Xuan Hao</a>"
