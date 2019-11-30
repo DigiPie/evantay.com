@@ -22,6 +22,7 @@ social:
   icon: envelope
 
 redirects:
+  /portfolio: '/#portfolio[303]'
   /digicourse: '/#portfolio-digicourse[303]'
   /dynalite: '/#portfolio-dynalite[303]'
   /braintrain: '/#portfolio-braintrain[303]'
