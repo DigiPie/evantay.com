@@ -225,8 +225,7 @@ ul#nav li.current a { color: #4285F4; }
    color: #eee;
 }
 
-#about p b {
-   line-height: 20px;
+#about .red {
    color: #DB4437;
 }
 

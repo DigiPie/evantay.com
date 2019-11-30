@@ -6,7 +6,7 @@ title: About
 #      text: Download Resume
 ---
 ## Aspiring full-stack software engineer
-Hi, I am a penultimate Computer Science undergraduate at the National University of Singapore (NUS) who is passionate about full-stack development.
+Hi, I am a penultimate Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
 
 I am an [IMDA](https://www.imda.gov.sg) scholar (bond-free) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the NUS recreational sports scene as the [President of the NUS Inline Skating Club](https://www.instagram.com/nusskating/?hl=en).
 
@@ -15,7 +15,7 @@ I believe social growth is just as important as academic development. As a [CS10
 In my free time, I read, practice Vinyasa yoga and train for endurance running.
 
 ## Open for summer 2020 internship opportunities
-I am looking for an internship from <b>11 May to 31 August 2020</b> in which I would get to work on meaningful problems in a collaborative environment. During this internship, I hope to receive guidance from mentors who would challenge me to grow.
+I am looking for an internship from <span class="red">11 May to 31 August 2020</span> in which I would get to work on meaningful problems in a collaborative environment. During this internship, I hope to receive guidance from mentors who would challenge me to grow.
 
 ### Technical skills
 <div class="tech-skills">
