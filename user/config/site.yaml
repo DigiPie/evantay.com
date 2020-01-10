@@ -2,7 +2,7 @@ title: Evan Tay
 author:
   name: Evan Tay
 metadata:
-    description: I am a penultimate Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
+  description: I am a penultimate Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
 
 # Header customization
 header:
@@ -10,21 +10,21 @@ header:
   description: I am a penultimate Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
 
 copyright:
-    - line: Built with Grav, Nginx and DigitalOcean
-    - line: &copy; Copyright 2013 - 2019 Evan Tay
+  - line: Built with Grav, Nginx and DigitalOcean
+  - line: Copyright 2013 - 2020 Evan Tay
 
 social:
-- url: "https://www.linkedin.com/in/evanitsg/"
-  icon: linkedin
-- url: "https://github.com/DigiPie"
-  icon: github
-- url: "mailto:evantay@comp.nus.edu.sg"
-  icon: envelope
+  - url: "https://www.linkedin.com/in/evanitsg/"
+    icon: linkedin
+  - url: "https://github.com/DigiPie"
+    icon: github
+  - url: "mailto:evantay@comp.nus.edu.sg"
+    icon: envelope
 
 redirects:
-  /portfolio: '/#portfolio[303]'
-  /digicourse: '/#portfolio-digicourse[303]'
-  /dynalite: '/#portfolio-dynalite[303]'
-  /braintrain: '/#portfolio-braintrain[303]'
-  /glory: '/#portfolio-glory[303]'
-  
+  /portfolio: "/#portfolio[303]"
+  /digicourse: "/#portfolio-digicourse[303]"
+  /dynalite: "/#portfolio-dynalite[303]"
+  /braintrain: "/#portfolio-braintrain[303]"
+  /glory: "/#portfolio-glory[303]"
+  /resume: "/docs/resume.pdf"
