@@ -55,5 +55,18 @@ portfolio:
     content: "We worked on this project under the National University of Singapore's <a href=\"http://nusskylab-dev.comp.nus.edu.sg/\">CP2106: Independent Software Development Project (Orbital) module </a>. This module was conducted during the summer break.<br><br>We were one of the top 11 out of 211 teams which received an award (Honorable Mention), and a Google Chromecast each from Google Singapore."
     repo: https://github.com/DigiPie/Glory
     download: https://digipie.itch.io/glory
+  - title: Developer Student Clubs by Google Developer
+    quickSubtitle: Technology Team @ Developer Student Club, National University of Singapore [Jekyll, Bootstrap]
+    quickLink: digicourse
+    previewImg: dscnustech.png
+    fullImg: dscnustech_full.png
+    subtitle: Technology Team @ Developer Student Club, National University of Singapore
+    period: January 2019
+    tech: Jekyll, Bootstrap, Github pages
+    team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/AndreWongZH/\">Andre Wong</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
+    quote: "Developer Student Club, National University of Singapore is made up of people from diverse backgrounds, majors, years of study, genders and races. We come together to push our mission of <a href=\"https://www.instagram.com/dscnus/\">#TechforGood</a>."
+    content: "The Technology team is responsible for the execution of DSC-NUS workshops and thematic tech events. We also take up tech advisory roles for club-wide DSC-NUS events such as the upcoming Hack For Good hackathon.<br><br>We created this simple website to act as a one-stop portal for students to find out more about our tech workshops, sign-up for them, and access our teaching materials."
+    repo: https://github.com/dscnustech
+    production: https://dscnustech.github.io/
 ---
 #Check out some of my notable projects

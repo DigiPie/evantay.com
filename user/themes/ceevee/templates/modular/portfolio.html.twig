@@ -40,11 +40,14 @@
             {% if item.deploy is defined %}
                 <a href="{{ item.deploy }}">Demo</a>
             {% endif %}
+            {% if item.production is defined %}
+                <a href="{{ item.production }}">Visit</a>
+            {% endif %}
             {% if item.doc is defined %}
                 <a href="{{ item.doc }}">Doc</a>
             {% endif %}
             {% if item.download is defined %}
-                <a href="{{ item.download }}">Download</a>
+                <a href="{{ item.download }}">Play</a>
             {% endif %}
             {% if item.repo is defined %}
                 <a href="{{ item.repo }}">Github</a>
