@@ -2,7 +2,7 @@
     <div class="row">
         <div class="twelve columns collapsed">
             {{ page.content }}
-            <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+            <div id="portfolio-wrapper" class="bgrid-fifths s-bgrid-thirds cf">
                 {% for item in page.header.portfolio %}
                 <div class="columns portfolio-item">
                     <div class="item-wrap">
@@ -11,7 +11,7 @@
                             <div class="overlay">
                                 <div class="portfolio-item-meta">
                                     <h5>{{ item.title }}</h5>
-                                    <p>{{ item.quickSubtitle }}</p>
+                                    <p>{{ item.subtitle }}</p>
                                 </div>
                             </div>
                         </a>
