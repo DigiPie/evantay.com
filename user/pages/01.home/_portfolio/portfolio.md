@@ -1,17 +1,16 @@
 ---
 title: Portfolio
 portfolio:
-  - title: Developer Student Clubs by Google Developer
-    quickSubtitle: Technology Team @ Developer Student Club, National University of Singapore [Jekyll, Bootstrap]
+  - title: Google Developer Student Club NUS
     quickLink: digicourse
     previewImg: dscnustech.png
     fullImg: dscnustech_full.png
-    subtitle: Technology Team @ Developer Student Club NUS
-    period: January 2020
+    subtitle: Tech team's website for workshop registration and materials
+    period: January to March 2020
     tech: Jekyll, Bootstrap, Github pages
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/AndreWongZH/\">Andre Wong</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
     quote: "Developer Student Club, National University of Singapore is made up of people from diverse backgrounds, majors, years of study, genders and races. We come together to push our mission of <a href=\"https://www.instagram.com/dscnus/\">#TechforGood</a>."
-    content: "The Technology team is responsible for the execution of DSC-NUS workshops and thematic tech events. We also take up tech advisory roles for club-wide DSC-NUS events such as the upcoming Hack For Good hackathon.<br><br>We created this simple website to act as a one-stop portal for students to find out more about our tech workshops, sign-up for them, and access our teaching materials."
+    content: "The Technology team is responsible for the execution of DSC-NUS workshops and thematic tech events.<br><br>We created this website to act as a one-stop portal for NUS students to find out more about our workshops, register for them, and access past workshop materials."
     repo: https://github.com/dscnustech
     production: https://dscnustech.github.io/
   - title: DigiCourse
@@ -19,20 +18,19 @@ portfolio:
     quickLink: digicourse
     previewImg: digicourse.png
     fullImg: digicourse_full.png
-    subtitle: Full-stack course management platform
+    subtitle: Full-stack course platform with forum and enrolment features
     period: September to November 2019
     tech: NodeJS, ExpressJS, PostgreSQL, Herokuapp
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee/\">Lee Tze Ting</a>, <a href=\"https://github.com/Aquarinte/\">Jacqueline Cheong</a>, <a href=\"https://github.com/awarenessxz/\">Bryan Koh</a>"
     quote: "A course management platform where student-teacher interactions can take place seamlessly online."
     content: "We worked on DigiCourse under the National University of Singapore's <a href=\"https://nusmods.com/modules/CS2102/database-systems\">CS2102: Database Systems module</a>. It is a database-centric project which features two major components, a course enrolment system, and a forum system.<br><br>DigiCourse is continuously deployed from Github to Herokuapp, with the aid of Heroku build-packs such as the <a href=\"https://github.com/DigiPie/psql-heroku-buildpack\">psql-heroku-buildpack</a>. I wrote this build pack to automate the execution of a PostgreSQL setup script file on deployment to Heroku."
     repo: https://github.com/DigiPie/DigiCourse
-    deploy: https://digicourse.herokuapp.com
   - title: Dynalite
     quickSubtitle: Internet-of-Things room occupancy visualisation app [Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker]
     quickLink: dynalite
     previewImg: dynalite.png
     fullImg: dynalite_full.png
-    subtitle: Internet-of-Things room occupancy visualisation app
+    subtitle: Full-stack Internet-of-Things occupancy visualisation app
     period: September to November 2019
     tech: Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/pikulet/\">Joyce Yeo</a>, <a href=\"https://github.com/crazoter/\">Matthew Lee</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
@@ -45,7 +43,7 @@ portfolio:
     quickLink: braintrain
     previewImg: braintrain.png
     fullImg: braintrain_full.png
-    subtitle: Spaced-repetition flashcard desktop app
+    subtitle: Spaced-repetition flashcard app
     period: March to April 2019
     tech: Java, JUnit5, JavaFx, OpenCSV
     team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee/\">Lee Tze Ting</a>, <a href=\"https://github.com/eugenefdw\">Eugene Foo</a>, <a href=\"https://github.com/lallanachang\">Chang Lei</a>, <a href=\"https://github.com/jeraldtsy\">Jerald Tan</a>"
