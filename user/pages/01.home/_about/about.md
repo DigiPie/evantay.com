@@ -8,7 +8,7 @@ title: About
 
 ## Aspiring full-stack software engineer
 
-Hi, I am a penultimate <span class="google-yellow">Computer Science</span> undergraduate specialising in <span class="google-yellow">Network</span> and <span class="google-yellow">Software Engineering</span> who is passionate about <span class="google-yellow">solving meaningful problems</span> as an aspiring <span class="google-yellow">Full-stack Software Engineer</span>.
+Hi, I am a penultimate Computer Science undergraduate specialising in Network and Software Engineering who is passionate about solving meaningful problems as an aspiring Full-stack Software Engineer.
 
 I am an [IMDA scholar (bond-free)](https://www.imda.gov.sg) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the NUS recreational sports scene as the [President of the NUS Inline Skating Club](https://www.instagram.com/nusskating/?hl=en).
 
