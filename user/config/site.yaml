@@ -18,8 +18,10 @@ social:
     icon: linkedin
   - url: "https://github.com/DigiPie"
     icon: github
-  - url: "mailto:evantay@comp.nus.edu.sg"
+  - url: "mailto:e0177031@u.nus.edu"
     icon: envelope
+  - url: "https://www.evantay.com/docs/"
+    icon: file-text
 
 redirects:
   /portfolio: "/#portfolio[303]"
