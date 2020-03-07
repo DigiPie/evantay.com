@@ -60,8 +60,4 @@ content:
             - _portfolio
             - _about
             - _resume
-            
-            #- _call
-            #- _testimonials
-            #- _contact
 ---

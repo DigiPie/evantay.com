@@ -711,6 +711,7 @@ properly.
 
    /* block grids on small screens */
    .s-bgrid-sixths [class*="column"]   { width: 16.66667%; }
+   .s-bgrid-fifths [class*="column"] { width: 20%; }
    .s-bgrid-quarters [class*="column"] { width: 25%; }
    .s-bgrid-thirds [class*="column"]   { width: 33.33333%; }
    .s-bgrid-halves [class*="column"]   { width: 50%; }
