@@ -255,10 +255,6 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper {
-      text-align: center;
-   }
-
    #portfolio-wrapper .columns { 
       margin: 0 auto 40px;
       max-width: 60%;
