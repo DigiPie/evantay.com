@@ -4,6 +4,7 @@
 			{{ page.content }}
 			{% for category in page.header.categories %}
 				<h2>{{ category.title }}</h2>
+				<h3>{{ category.description }}</h3>
 				<div id="portfolio-wrapper" class="bgrid-fifths s-bgrid-thirds cf">
 					{% for item in category.portfolio %}
 						<div class="columns portfolio-item">

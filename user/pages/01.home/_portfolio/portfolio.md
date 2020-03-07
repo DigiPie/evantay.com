@@ -3,19 +3,8 @@ title: Portfolio
 categories:
   - SE:
     title: Projects
+    description: My full-stack and software engineering projects
     portfolio:
-      - title: Google Developer Student Club NUS
-        quickLink: dscnustech
-        previewImg: dscnustech.png
-        fullImg: dscnustech_full.png
-        subtitle: Tech team's website for workshop registration and materials
-        period: January to March 2020
-        tech: Jekyll, Bootstrap, Github pages
-        team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/AndreWongZH/\">Andre Wong</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
-        quote: "Developer Student Club, National University of Singapore is made up of people from diverse backgrounds, majors, years of study, genders and races. We come together to push our mission of <a href=\"https://www.instagram.com/dscnus/\">#TechforGood</a>."
-        content: "The Technology team is responsible for the execution of DSC-NUS workshops and thematic tech events.<br><br>We created this website to act as a one-stop portal for NUS students to find out more about our workshops, register for them, and access past workshop materials."
-        repo: https://github.com/dscnustech
-        production: https://dscnustech.github.io/
       - title: DigiCourse
         quickSubtitle: Full-stack course management platform [NodeJS, ExpressJS, PostgreSQL, Herokuapp]
         quickLink: digicourse
@@ -46,7 +35,7 @@ categories:
         quickLink: braintrain
         previewImg: braintrain.png
         fullImg: braintrain_full.png
-        subtitle: Spaced-repetition flashcard app
+        subtitle: Spaced-repetition flashcard desktop app
         period: March to April 2019
         tech: Java, JUnit5, JavaFx, OpenCSV
         team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee/\">Lee Tze Ting</a>, <a href=\"https://github.com/eugenefdw\">Eugene Foo</a>, <a href=\"https://github.com/lallanachang\">Chang Lei</a>, <a href=\"https://github.com/jeraldtsy\">Jerald Tan</a>"
@@ -70,8 +59,21 @@ categories:
         repo: https://github.com/DigiPie/Glory
         download: https://digipie.itch.io/glory
   - Web:
-    title: Utilities &amp; Tutorials
+    title: Contributions
+    description: My open-source utilities, tutorials and other contributions
     portfolio:
+      - title: Google Developer Student Club NUS
+        quickLink: dscnustech
+        previewImg: dscnustech.png
+        fullImg: dscnustech_full.png
+        subtitle: Tech team's website for workshop registration and materials
+        period: January to March 2020
+        tech: Jekyll, Bootstrap, Github pages
+        team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/AndreWongZH/\">Andre Wong</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
+        quote: "Developer Student Club, National University of Singapore is made up of people from diverse backgrounds, majors, years of study, genders and races. We come together to push our mission of <a href=\"https://www.instagram.com/dscnus/\">#TechforGood</a>."
+        content: "The Technology team is responsible for the execution of DSC-NUS workshops and thematic tech events.<br><br>We created this website to act as a one-stop portal for NUS students to find out more about our workshops, register for them, and access past workshop materials."
+        repo: https://github.com/dscnustech
+        production: https://dscnustech.github.io/
       - title: Mongo-Action
         quickLink: mongo-action
         previewImg: mongo-action.png
@@ -95,4 +97,5 @@ categories:
         content: "I developed this buildpack while working on <a href=\"https://evantay.com/digicourse\">DigiCourse</a>, a full-stack application built on PostgreSQL. I wrote this build pack to automate the execution of a PostgreSQL setup script file in the Git repo on deployment to Heroku from Github."
         repo: https://github.com/DigiPie/psql-heroku-buildpack
 ---
+
 #Check out my notable projects and contributions
