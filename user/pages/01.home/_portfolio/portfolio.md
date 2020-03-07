@@ -26,7 +26,7 @@ categories:
         tech: NodeJS, ExpressJS, PostgreSQL, Herokuapp
         team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/halcyoneee/\">Lee Tze Ting</a>, <a href=\"https://github.com/Aquarinte/\">Jacqueline Cheong</a>, <a href=\"https://github.com/awarenessxz/\">Bryan Koh</a>"
         quote: "A course management platform where student-teacher interactions can take place seamlessly online."
-        content: "We worked on DigiCourse under the National University of Singapore's <a href=\"https://nusmods.com/modules/CS2102/database-systems\">CS2102: Database Systems module</a>. It is a database-centric project which features two major components, a course enrolment system, and a forum system.<br><br>DigiCourse is continuously deployed from Github to Herokuapp, with the aid of Heroku build-packs such as the <a href=\"https://github.com/DigiPie/psql-heroku-buildpack\">psql-heroku-buildpack</a>. I wrote this build pack to automate the execution of a PostgreSQL setup script file on deployment to Heroku."
+        content: "We worked on DigiCourse under the National University of Singapore's <a href=\"https://nusmods.com/modules/CS2102/database-systems\">CS2102: Database Systems module</a>. It is a database-centric project which features two major components, a course enrolment system, and a forum system.<br><br>DigiCourse is continuously deployed from Github to Herokuapp, with the aid of Heroku build-packs such as the <a href=\"https://evantay.com/psql-heroku-buildpack\">psql-heroku-buildpack</a>. I wrote this build pack to automate the execution of a PostgreSQL setup script file on deployment to Heroku."
         repo: https://github.com/DigiPie/DigiCourse
       - title: Dynalite
         quickSubtitle: Internet-of-Things room occupancy visualisation app [Raspberry-Pi, Python, COAP, NodeJS, ExpressJS, PostgreSQL, ReactJS, Docker]
@@ -76,7 +76,7 @@ categories:
         quickLink: mongo-action
         previewImg: mongo-action.png
         fullImg: mongo-action_full.png
-        subtitle: Github action to create a mongo Docker container.
+        subtitle: Github action which creates a mongo Docker container
         period: March 2020
         tech: GitHub Action, NodeJS, Docker
         team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>"
@@ -84,5 +84,15 @@ categories:
         content: "<a href=\"https://github.com/DigiPie/mongo-action/workflows/mongo-action%20CI/badge.svg\" title=\"mongo-action CI\"><img src=\"https://github.com/DigiPie/mongo-action/workflows/mongo-action%20CI/badge.svg\" /></a><br><br>I created this Github Action to learn more about Continuous Integration tooling, and to simplify automated testing for my own <a href=\"https://github.com/DigiPie/mocha-chai-mongoose\">Node-ExpressJS-Mongoose</a> project.<br><br>By using this Github Action, there is no longer a need to provision a test database on MongoDB Atlas or elsewhere. Furthermore, each test will run on a fresh, isolated copy of a MongoDB instance.<br><br>I submitted this to the <a href=\"https://githubhackathon.com/\">Github Hackathon for Github Actions</a>."
         repo: https://github.com/DigiPie/mongo-action
         production: https://github.com/marketplace/actions/mongo-action
+      - title: psql-heroku-buildpack
+        quickLink: psql-heroku-buildpack
+        previewImg: heroku-buildpack.png
+        subtitle: Heroku buildpack which executes a PostgreSQL script file
+        period: September 2019
+        tech: Herokuapp, PostgreSQL
+        team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>"
+        quote: "psql-heroku-buildpack is a buildpack which executes a PostgreSQL script file on deployment to Heroku."
+        content: "I developed this buildpack while working on <a href=\"https://evantay.com/digicourse\">DigiCourse</a>, a full-stack application built on PostgreSQL. I wrote this build pack to automate the execution of a PostgreSQL setup script file in the Git repo on deployment to Heroku from Github."
+        repo: https://github.com/DigiPie/psql-heroku-buildpack
 ---
 #Check out my notable projects and contributions
