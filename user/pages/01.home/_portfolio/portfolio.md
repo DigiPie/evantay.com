@@ -62,18 +62,6 @@ categories:
     title: Contributions
     description: My open-source utilities, tutorials and other contributions
     portfolio:
-      - title: Google Developer Student Club NUS
-        quickLink: dscnustech
-        previewImg: dscnustech.png
-        fullImg: dscnustech_full.png
-        subtitle: Tech team's website for workshop registration and materials
-        period: January to March 2020
-        tech: Jekyll, Bootstrap, Github pages
-        team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/AndreWongZH/\">Andre Wong</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
-        quote: "Developer Student Club, National University of Singapore is made up of people from diverse backgrounds, majors, years of study, genders and races. We come together to push our mission of <a href=\"https://www.instagram.com/dscnus/\">#TechforGood</a>."
-        content: "The Technology team is responsible for the execution of DSC-NUS workshops and thematic tech events.<br><br>We created this website to act as a one-stop portal for NUS students to find out more about our workshops, register for them, and access past workshop materials."
-        repo: https://github.com/dscnustech
-        production: https://dscnustech.github.io/
       - title: Mongo-Action
         quickLink: mongo-action
         previewImg: mongo-action.png
@@ -86,6 +74,18 @@ categories:
         content: "<a href=\"https://github.com/DigiPie/mongo-action/workflows/mongo-action%20CI/badge.svg\" title=\"mongo-action CI\"><img src=\"https://github.com/DigiPie/mongo-action/workflows/mongo-action%20CI/badge.svg\" /></a><br><br>I created this Github Action to learn more about Continuous Integration tooling, and to simplify automated testing for my own <a href=\"https://github.com/DigiPie/mocha-chai-mongoose\">Node-ExpressJS-Mongoose</a> project.<br><br>By using this Github Action, there is no longer a need to provision a test database on MongoDB Atlas or elsewhere. Furthermore, each test will run on a fresh, isolated copy of a MongoDB instance.<br><br>I submitted this to the <a href=\"https://githubhackathon.com/\">Github Hackathon for Github Actions</a>."
         repo: https://github.com/DigiPie/mongo-action
         production: https://github.com/marketplace/actions/mongo-action
+      - title: Google Developer Student Club NUS
+        quickLink: dscnustech
+        previewImg: dscnustech.png
+        fullImg: dscnustech_full.png
+        subtitle: Tech team's website for workshop registration and materials
+        period: January to March 2020
+        tech: Jekyll, Bootstrap, Github pages
+        team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>, <a href=\"https://github.com/AndreWongZH/\">Andre Wong</a>, <a href=\"https://github.com/Happytreat/\">Melodies Sim</a>"
+        quote: "Developer Student Club, National University of Singapore is made up of people from diverse backgrounds, majors, years of study, genders and races. We come together to push our mission of <a href=\"https://www.instagram.com/dscnus/\">#TechforGood</a>."
+        content: "The Technology team is responsible for the execution of DSC-NUS workshops and thematic tech events.<br><br>We created this website to act as a one-stop portal for NUS students to find out more about our workshops, register for them, and access past workshop materials."
+        repo: https://github.com/dscnustech
+        production: https://dscnustech.github.io/
       - title: psql-heroku-buildpack
         quickLink: psql-heroku-buildpack
         previewImg: heroku-buildpack.png
