@@ -75,7 +75,7 @@ categories:
         repo: https://github.com/DigiPie/mongo-action
         production: https://github.com/marketplace/actions/mongo-action
       - title: Google Developer Student Club NUS
-        quickLink: dscnustech
+        quickLink: dsc-nus
         previewImg: dscnustech.png
         fullImg: dscnustech_full.png
         subtitle: Tech team's website for workshop registration and materials
@@ -87,7 +87,7 @@ categories:
         repo: https://github.com/dscnustech
         production: https://dscnustech.github.io/
       - title: psql-heroku-buildpack
-        quickLink: psql-heroku-buildpack
+        quickLink: psql-heroku
         previewImg: heroku-buildpack.png
         subtitle: Heroku buildpack which executes a PostgreSQL script file
         period: September 2019

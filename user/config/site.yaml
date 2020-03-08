@@ -29,4 +29,6 @@ redirects:
   /dynalite: "/#portfolio-dynalite[303]"
   /braintrain: "/#portfolio-braintrain[303]"
   /glory: "/#portfolio-glory[303]"
-  /resume: "/docs/resume.pdf"
+  /mongo-action: "/#portfolio-mongo-action[303]"
+  /dsc-nus: "/#portfolio-dsc-nus[303]"
+  /psql-heroku: "/#portfolio-psql-heroku[303]"
