@@ -8,10 +8,10 @@ title: About
 
 ## Aspiring full-stack software engineer
 
-Hi, I am a year 3 Computer Science undergraduate specialiseed in Software Engineering and Networking who is passionate about solving meaningful problems as an aspiring Full-stack Software Engineer.
+Hi, I am a Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
 
-I am an [IMDA scholar (bond-free)](https://www.imda.gov.sg) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the NUS recreational sports scene as the [President of the NUS Inline Skating Club](https://www.instagram.com/nusskating/?hl=en).
+I believe social growth is just as important as academic development. As a [tutor for CS1010: Programming Methodology](https://github.com/DigiPie/CS1010-Tutorial-C09), I conducted weekly tutorials for 14 students independently. As the [Deputy Head of Technology at Developer Student Club NUS](https://dscnustech.github.io), I co-organised and emceed for the first-ever Hack For Good hackathon.
 
-I believe social growth is just as important as academic development. As a [CS1010: Programming Methodology](https://nusmods.com/modules/CS1010/programming-methodology) tutor, I conducted weekly 2-hour tutorial sessions for 14 students. As the current [Deputy Head of Technology of NUS's Google Developer Student Club](https://dscnustech.github.io), I co-organised and emceed for the first-ever [Hack For Good hackathon](https://dsc.comp.nus.edu.sg/hackforgood2020).
+I am also an [IMDA scholar (bond-free)](https://www.imda.gov.sg) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the recreational sports scene as the [President of the NUS Skating Club](https://www.instagram.com/nusskating/).
 
-In my free time, I run, read and learn new things. The latest thing I picked up is the Udemy course: [Node with React: Fullstack Web Development](https://www.udemy.com/certificate/UC-e3c08245-a935-45b7-91da-6cc690f3dd30/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email) which I completed in Feb 2020.
+In my free time, I run, read and learn new things. The latest online course I completed is the Udemy course: [Node with React: Fullstack Web Development](https://www.udemy.com/certificate/UC-e3c08245-a935-45b7-91da-6cc690f3dd30/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email).
