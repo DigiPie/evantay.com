@@ -62,6 +62,17 @@ categories:
     title: Contributions
     description: My open-source utilities, tutorials and other contributions
     portfolio:
+      - title: mocha-chai-mongoose
+        quickLink: mochai
+        previewImg: mochai.png
+        fullImg: mochai_full.png
+        subtitle: Example of Mocha-Chai API testing for Node app
+        period: April 2020
+        tech: Mocha, Chai, NodeJS, ExpressJS, Mongoose (MongoDB)
+        team: "<a href=\"https://github.com/DigiPie/\">Evan Tay</a>"
+        quote: "An up-to-date 2020 example of how you can use Mocha and Chai to perform API testing for a Node-ExpressJS-Mongoose app. You will be able to test your code locally and also automatically using Github Action."
+        content: "<a href=\"https://github.com/DigiPie/mocha-chai-mongoose/workflows/mongo-action%20CI/badge.svg\" title=\"Node.js CI\"><img src=\"https://github.com/DigiPie/mocha-chai-mongoose/workflows/Node.js%20CI/badge.svg\" /></a><br><br>I worked on this project to learn more about API testing using <a href=\"https://mochajs.org/\">Mocha</a> and <a href=\"https://www.chaijs.com/\">Chai</a>, and also to practise setting up a Node-ExpressJS-Mongoose backend application."
+        repo: https://github.com/DigiPie/mocha-chai-mongoose
       - title: Mongo-Action
         quickLink: mongo-action
         previewImg: mongo-action.png
