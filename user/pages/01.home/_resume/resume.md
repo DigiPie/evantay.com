@@ -1,6 +1,25 @@
 ---
 title: Resume
 sections:
+    - title: Work
+      css_class: work
+      items:
+        - title: Open Government Products, GovTech Singapore
+          info: Software Engineer Intern
+          date: May to August 2020
+          description: Open Government Products is an in-house team of engineers, designers, and product managers who build technology for the public good.
+        - title: National University of Singapore
+          info: Teaching Assistant
+          date: January to December 2018
+          description: "<b><a href=\"https://nusmods.com/modules/CS1010/programming-methodology\">CS1010: Programming Methodology</a></b> • August to December 2018<br>Conducted weekly 2-hour tutorials for 14 students, covering fundamental programming concepts, C and Vim<br><br><b><a href=\"https://nusmods.com/modules/CS2030/programming-methodology-ii\">CS2030: Programming Methodology II</a></b> • January to May 2018<br>Prepared lab materials for over 200 students, covering Object-Oriented Programming (OOP) and Functional Programming paradigms in Java"
+        - title: GovTech Singapore
+          info: DevOps Associate Consultant
+          date: July to September 2015
+          description: "I worked as a Cloud System Administrator under the DevOps team at the Government Digital Services division.<br><br><b>Responsibilities</b><br>• Setup and maintenance of Amazon Web Services instances (virtual servers)<br>• Configuration of error logging using the Elasticsearch, Logstash, and Kibana (ELK) stack"
+        - title: DigiPen Institute of Technology, Seattle
+          info: Overseas Industrial Training Programme
+          date: May to July 2014
+          description: "I was one of only three students in my school batch selected for this programme. I worked in a team of 4 on a 2D puzzle game using DigiPen's proprietary Zero engine."
     - title: Education
       css_class: education
       items:
@@ -16,26 +35,11 @@ sections:
           info: Diploma in Information Technology, cGPA of 3.907 upon 4.0
           date: 2012 to 2015
           description: "<b>Achievements</b><br>• <a href=\"https://youtu.be/zxQKmwpGDag?t=80\">Featured in Graduates of 2015 video</a><br> • 2nd place for <a href=\"http://www.isobarcreate.com/\">Isobar Create32 Hackathon SG</a><br>• Diploma with Merit and Accenture Technology Prize<br>• <a href=\"http://bit.ly/2hSzWbv\">IMDA SG: Digital Scholarship (Bond-free)</a><br><br><b>Certifications</b><br>• <a href=\"https://www.youracclaim.com/badges/71496e7f-e632-442b-b8c9-42b7b7281b95/linked_in_profile\">Oracle Certified Associate, Java SE 7 Programmer (2014)</a><br>• <a href=\"https://www.youracclaim.com/badges/d587a4e6-72a6-4000-83bf-551596f667a8/linked_in_profile\">Adobe Certified Associate in Visual Communication Using Adobe Photoshop CS6 (2013)</a><br><br><b>Activities</b><br>• Microsoft Student Partner: Conducted a Windows 8 app development workshop<br>• SP Guitarists Club Classical Ensemble Exco: Assisted the Conductor as a Sectional Leader"
-    - title: Work
-      css_class: work
-      items:
-        - title: National University of Singapore
-          info: Teaching Assistant
-          date: January to December 2018
-          description: "<b><a href=\"https://nusmods.com/modules/CS1010/programming-methodology\">CS1010: Programming Methodology</a></b> • August to December 2018<br>I taught weekly 2-hour tutorial sessions for a class of 14 students, where I taught fundamental concepts of programming using C, Vim and GitHub Classroom.<br><br><b><a href=\"https://nusmods.com/modules/CS2030/programming-methodology-ii\">CS2030: Programming Methodology II</a></b> • January to May 2018<br>I prepared lab assignment materials for over 200 students, which covers the application of Object-Oriented Programming (OOP) and Functional Programming paradigms in Java."
-        - title: GovTech Singapore
-          info: DevOps Associate Consultant
-          date: July to September 2015
-          description: "I worked as a Cloud System Administrator under the DevOps team at the Government Digital Services division.<br><br><b>Responsibilities</b><br>• Setup and maintenance of Amazon Web Services instances (virtual servers)<br>• Configuration of error logging using the Elasticsearch, Logstash, and Kibana (ELK) stack"
-        - title: DigiPen Institute of Technology, Seattle
-          info: Overseas Industrial Training Programme
-          date: May to July 2014
-          description: "I was one of only three students in my batch selected for this programme. During the programme, I worked in a team of four to produce a 2D puzzle game using DigiPen's proprietary Zero engine."
     - title: National Service
       css_class: work
       items:
         - title: Singapore Army
           info: HQ 2 PDF
           date: October 2015 to August 2017
-          description: "I served National Service at the Division Manpower Branch of Headquarters 2nd People's Defence Force Division (HQ 2 PDF).<br><br><b>Achievements</b><br>• Outstanding grade for  conduct and performance with testimonial<br>• Best Soldier of the Month (December 2016)<br><br><b>Notable Projects</b><br>• SAF Family Concert 2016 Invitation In-Charge: Implemented a ticketing system with barcode scanning capability using Excel VBA<br>• HQ 2 PDF National Education Tour 2016 Organizer: Liaised with tour agencies and caterers"
+          description: "I served National Service at the Division Manpower Branch of Headquarters 2nd People's Defence Force Division (HQ 2 PDF).<br><br><b>Achievements</b><br>• Outstanding grade for conduct and performance with testimonial<br>• Best Soldier of the Month (Dec 2016) awarded by Division Commander (Brigadier General)<br><br><b>Notable Projects</b><br>• Managed invitation and registration for the SAF Family Concert 2016 at Esplanade<br>• Developed an integrated Excel VBA ticketing and seating plan system<br>• Organised the HQ National Education Tour 2016"
 ---
