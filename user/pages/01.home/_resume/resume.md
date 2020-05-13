@@ -7,7 +7,7 @@ sections:
         - title: Open Government Products, GovTech Singapore
           info: Software Engineer Intern
           date: May to August 2020
-          description: Open Government Products is an in-house team of engineers, designers, and product managers who build technology for the public good.
+          description: "Open Government Products is an in-house team of engineers, designers, and product managers who build technology for the public good.<br><br>I am currently working on Vault.gov.sg, a government-wide data discovery and sharing platform. On Vault, public officers can easily and quickly share internal and cross-agency data in a secure manner."
         - title: National University of Singapore
           info: Teaching Assistant
           date: January to December 2018
