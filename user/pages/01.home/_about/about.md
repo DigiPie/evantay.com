@@ -8,7 +8,7 @@ title: About
 
 ## Aspiring full-stack software engineer
 
-Hi, I am a Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
+Hi, I am a Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems. This summer, I am doing a Software Engineer internship at [Open Government Products](https://open.gov.sg/), and taking part in the [Google Cloud Student Sprint Program](https://events.withgoogle.com/cssp/).
 
 I believe social growth is just as important as academic development. As a [tutor for CS1010: Programming Methodology](https://github.com/DigiPie/CS1010-Tutorial-C09), I conducted weekly tutorials for 14 students independently. As the [Deputy Head of Technology at Developer Student Club NUS](https://dscnustech.github.io), I co-organised and emceed for the first-ever Hack For Good hackathon.
 
