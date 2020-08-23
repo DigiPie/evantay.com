@@ -6,8 +6,8 @@ sections:
       items:
         - title: National University of Singapore
           info: Teaching Assistant
-          date: January 2018 to December 2020
-          description: "<b><a href=\"https://nusmods.com/modules/CS3103/computer-networks-practice\">CS3103: Computer Networks Practice</a></b> • August to December 2020<br>Conducted weekly 2-hour labs for 17 students, covering commonly-used network concepts such as SDN and IPSec-VPN, and newer IoT protocols such as MQTT and CoAP.<br><br><b><a href=\"https://nusmods.com/modules/CS1010/programming-methodology\">CS1010: Programming Methodology</a></b> • August to December 2018<br>Conducted weekly 2-hour tutorials for 14 students, covering fundamental programming concepts, C and Vim.<br><br><b><a href=\"https://nusmods.com/modules/CS2030/programming-methodology-ii\">CS2030: Programming Methodology II</a></b> • January to May 2018<br>Prepared lab materials for over 200 students, covering Object-Oriented Programming (OOP) and Functional Programming paradigms in Java."
+          date: January 2018 to Present
+          description: "<b><a href=\"https://nusmods.com/modules/CS3103/computer-networks-practice\">CS3103: Computer Networks Practice</a></b> • August to Present<br>Conducting weekly 2-hour labs for 17 students, covering commonly-used network concepts such as SDN and IPSec-VPN, and newer IoT protocols such as MQTT and CoAP.<br><br><b><a href=\"https://nusmods.com/modules/CS1010/programming-methodology\">CS1010: Programming Methodology</a></b> • August to December 2018<br>Conducted weekly 2-hour tutorials for 14 students, covering fundamental programming concepts, C and Vim.<br><br><b><a href=\"https://nusmods.com/modules/CS2030/programming-methodology-ii\">CS2030: Programming Methodology II</a></b> • January to May 2018<br>Prepared lab materials for over 200 students, covering Object-Oriented Programming (OOP) and Functional Programming paradigms in Java."
         - title: Open Government Products, GovTech Singapore
           info: Software Engineer Intern
           date: May to August 2020
