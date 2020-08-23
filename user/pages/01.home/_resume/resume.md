@@ -4,18 +4,18 @@ sections:
     - title: Work
       css_class: work
       items:
+        - title: National University of Singapore
+          info: Teaching Assistant
+          date: January 2018 to December 2020
+          description: "<b><a href=\"https://nusmods.com/modules/CS3103/computer-networks-practice\">CS3103: Computer Networks Practice</a></b> • August to December 2020<br>Conducted weekly 2-hour labs for 17 students, covering commonly-used network concepts such as SDN and IPSec-VPN, and newer IoT protocols such as MQTT and CoAP.<br><br><b><a href=\"https://nusmods.com/modules/CS1010/programming-methodology\">CS1010: Programming Methodology</a></b> • August to December 2018<br>Conducted weekly 2-hour tutorials for 14 students, covering fundamental programming concepts, C and Vim.<br><br><b><a href=\"https://nusmods.com/modules/CS2030/programming-methodology-ii\">CS2030: Programming Methodology II</a></b> • January to May 2018<br>Prepared lab materials for over 200 students, covering Object-Oriented Programming (OOP) and Functional Programming paradigms in Java."
         - title: Open Government Products, GovTech Singapore
           info: Software Engineer Intern
           date: May to August 2020
-          description: "Open Government Products is an in-house team of engineers, designers, and product managers who build technology for the public good.<br><br>I am currently working on Vault.gov.sg, a government-wide data discovery and sharing platform. On Vault, public officers can easily and quickly share internal and cross-agency data in a secure manner."
-        - title: National University of Singapore
-          info: Teaching Assistant
-          date: January to December 2018
-          description: "<b><a href=\"https://nusmods.com/modules/CS1010/programming-methodology\">CS1010: Programming Methodology</a></b> • August to December 2018<br>Conducted weekly 2-hour tutorials for 14 students, covering fundamental programming concepts, C and Vim<br><br><b><a href=\"https://nusmods.com/modules/CS2030/programming-methodology-ii\">CS2030: Programming Methodology II</a></b> • January to May 2018<br>Prepared lab materials for over 200 students, covering Object-Oriented Programming (OOP) and Functional Programming paradigms in Java"
-        - title: GovTech Singapore
+          description: "Open Government Products is an in-house team of engineers, designers, and product managers who build technology for the public good.<br><br>I worked on Vault.gov.sg, a Whole-of-Government data discovery and sharing platform. I worked as a Full-Stack Software Engineer (Backend: MySQL, NodeJS-ExpressJS; Frontend: ReactJS-NextJS) and Cloud Engineer (AWS EB, RDS, S3)."
+        - title: Government Digital Services, GovTech Singapore
           info: DevOps Associate Consultant
           date: July to September 2015
-          description: "I worked as a Cloud System Administrator under the DevOps team at the Government Digital Services division.<br><br><b>Responsibilities</b><br>• Setup and maintenance of Amazon Web Services instances (virtual servers)<br>• Configuration of error logging using the Elasticsearch, Logstash, and Kibana (ELK) stack"
+          description: "Digital transformation within the public sector is at the heart of what GovTech does.<br><br>I worked as a Cloud System Administrator under the DevOps team at the Government Digital Services division."
         - title: DigiPen Institute of Technology, Seattle
           info: Overseas Industrial Training Programme
           date: May to July 2014

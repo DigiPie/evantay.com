@@ -2,12 +2,12 @@ title: Evan Tay
 author:
   name: Evan Tay
 metadata:
-  description: A Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
+  description: A Full-stack Cloud-enabled Software Engineer passionate about solving Meaningful Problems.
 
 # Header customization
 header:
   title: Hello world
-  description: Hi, I am a Computer Science undergraduate and aspiring full-stack developer passionate about solving meaningful problems.
+  description: Hi, I am a Full-stack Cloud-enabled Software Engineer passionate about solving Meaningful Problems.
 
 copyright:
   - line: Built with Grav, Nginx and DigitalOcean
