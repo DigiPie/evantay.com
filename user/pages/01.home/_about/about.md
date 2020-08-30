@@ -14,4 +14,4 @@ I believe soft skills are just as important as technical competency. As a [Tutor
 
 I am also an [IMDA scholar (bond-free)](https://www.imda.gov.sg) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the recreational sports scene as the [President of the NUS Skating Club](https://www.instagram.com/nusskating/).
 
-I am currently looking for full-time job opportunities, starting from July 2021.
+I am currently looking for full-time job opportunities, starting from July 2021. You can contact me at [evan.it.sg@gmail.com](mailto:evan.it.sg@gmail.com) or [Linkedin](https://www.linkedin.com/in/evanitsg/).
