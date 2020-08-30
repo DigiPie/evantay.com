@@ -57,7 +57,7 @@ content:
         by: default
         dir: asc
         custom:
-            - _about
             - _portfolio
+            - _about
             - _resume
 ---
