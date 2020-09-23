@@ -2,16 +2,17 @@ title: Evan Tay
 author:
   name: Evan Tay
 metadata:
-  description: A Full-stack Cloud-enabled Software Engineer passionate about solving Meaningful Problems.
+  description: A Full-stack Software Engineer and Cloud Engineer passionate about solving Meaningful Problems.
 
 # Header customization
 header:
   title: Hello world
-  description: Hi, I am a Full-stack Cloud-enabled Software Engineer passionate about solving Meaningful Problems.
+  description: Hi, I am a Full-stack Software Engineer and Cloud Engineer passionate about solving Meaningful Problems.
 
 copyright:
   - line: Built with Grav, Nginx and DigitalOcean
   - line: Copyright 2013 - 2020 Evan Tay
+  - line: Last updated on 23 Sep 2020
 
 social:
   - url: "https://www.linkedin.com/in/evanitsg/"
