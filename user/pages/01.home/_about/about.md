@@ -8,10 +8,12 @@ title: About
 
 ## Full-stack Cloud-enabled Software Engineer
 
-Hi, I am a final year Computer Science undergraduate and Full-stack Cloud-enabled Software Engineer passionate about solving Meaningful Problems. I was a Full-stack Software Engineer Intern at [Open Government Products](https://open.gov.sg/) previously, and a [Google Certified Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer).
+Hi, I am a final year Computer Science undergraduate passionate about solving Meaningful Problems. I am currently looking for full-time opportunities as a Software Engineer or Cloud Engineer, starting from July 2021.
 
-I believe soft skills are just as important as technical competency. As a [Tutor for CS3103: Computer Networks Practice](https://nusmods.com/modules/CS3103/computer-networks-practice), I conduct weekly labs for 16 students independently. As the [Deputy Head of Tech at Developer Student Club NUS](https://dscnustech.github.io), I co-organised and emceed for Hack For Good 2020.
+I was a Full-stack Software Engineer Intern at [Open Government Products](https://open.gov.sg/) previously. I am also a [Google Certified Associate Cloud Engineer](https://www.credential.net/a3645798-b27d-401a-a412-7f1c94ba7e6a) and [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/681b95e4-178e-4d95-af41-dcdc6dbb9442/public_url).
 
-I am also an [IMDA scholar (bond-free)](https://www.imda.gov.sg) who has received numerous academic and leadership awards. I was awarded the Colours Award for my contributions to the recreational sports scene as the [President of the NUS Skating Club](https://www.instagram.com/nusskating/).
+I believe soft skills are just as important as technical competency. As a [Tutor for CS3103: Computer Networks Practice](https://nusmods.com/modules/CS3103/computer-networks-practice), I conduct weekly labs for 16 students independently. As the [Deputy Head of Tech at Google Developer Student Club NUS](https://dscnustech.github.io), I co-organised and emceed for Hack For Good 2020.
 
-I am currently looking for full-time job opportunities, starting from July 2021. You can contact me at [evan.it.sg@gmail.com](mailto:evan.it.sg@gmail.com) or [Linkedin](https://www.linkedin.com/in/evanitsg/).
+I am also an [IMDA scholar (bond-free)](https://www.imda.gov.sg) who has received numerous awards. I received the Colours Award for my contributions to the school sports scene as the [President of the NUS Skating Club](https://www.instagram.com/nusskating/).
+
+You can contact me at [evan.it.sg@gmail.com](mailto:evan.it.sg@gmail.com) or through [Linkedin](https://www.linkedin.com/in/evanitsg/).
