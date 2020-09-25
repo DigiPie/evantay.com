@@ -8,7 +8,7 @@ title: About
 
 ## Full-stack Cloud-enabled Software Engineer
 
-Hi, I am a final year Computer Science undergraduate passionate about solving Meaningful Problems. I am currently looking for full-time opportunities as a Software Engineer or Cloud Engineer, starting from July 2021.
+Hi, I am a graduating Computer Science undergraduate passionate about solving Meaningful Problems. I am currently looking for full-time opportunities as a Cloud Engineer or Software Engineer starting from January 2021.
 
 I was a Full-stack Software Engineer Intern at [Open Government Products](https://open.gov.sg/) previously. I am also a [Google Certified Associate Cloud Engineer](https://www.credential.net/a3645798-b27d-401a-a412-7f1c94ba7e6a) and [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/681b95e4-178e-4d95-af41-dcdc6dbb9442/public_url).
 
