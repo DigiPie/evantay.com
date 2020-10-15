@@ -10,9 +10,7 @@ header:
   description: Hi, I am a Full-stack Software Engineer and Cloud Engineer passionate about solving Meaningful Problems.
 
 copyright:
-  - line: Built with Grav, Nginx and DigitalOcean
-  - line: Copyright 2013 - 2020 Evan Tay
-  - line: Last updated on 23 Sep 2020
+  - line: Last updated on 15 September 2020
 
 social:
   - url: "https://www.linkedin.com/in/evanitsg/"
