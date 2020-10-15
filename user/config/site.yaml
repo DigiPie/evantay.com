@@ -17,14 +17,19 @@ copyright:
 social:
   - url: "https://www.linkedin.com/in/evanitsg/"
     icon: linkedin
+    name: LinkedIn
   - url: "https://github.com/DigiPie"
     icon: github
+    name: GitHub
   - url: "mailto:evan.it.sg@gmail.com"
     icon: envelope
+    name: Email
   - url: "https://github.com/DigiPie/Deedy-Resume/raw/master/resume.pdf"
     icon: file-text
+    name: Resume
   - url: "https://www.evantay.com/docs/"
     icon: book
+    name: Docs
 
 redirects:
   /portfolio: "/#portfolio[303]"
