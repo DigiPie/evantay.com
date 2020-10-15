@@ -21,8 +21,10 @@ social:
     icon: github
   - url: "mailto:evan.it.sg@gmail.com"
     icon: envelope
-  - url: "https://www.evantay.com/docs/"
+  - url: "https://github.com/DigiPie/Deedy-Resume/raw/master/resume.pdf"
     icon: file-text
+  - url: "https://www.evantay.com/docs/"
+    icon: book
 
 redirects:
   /portfolio: "/#portfolio[303]"
